@@ -21,5 +21,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
-
+    <ItemGroup>
+	    <ProjectReference Include="..\Calculadora\Calculadora.csproj" />
+    </ItemGroup>
 </Project>

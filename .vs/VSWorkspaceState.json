@@ -3,8 +3,9 @@
     "",
     "\\src",
     "\\src\\Calculadora",
-    "\\src\\CalculadoraTestes"
+    "\\src\\CalculadoraTestes",
+    "\\src\\Calculadora\\Services"
   ],
-  "SelectedNode": "\\src\\Calculadora",
+  "SelectedNode": "\\src\\Calculadora\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

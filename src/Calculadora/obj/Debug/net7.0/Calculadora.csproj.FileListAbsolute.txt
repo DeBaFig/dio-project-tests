@@ -1,0 +1,14 @@
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\deniz\source\repos\dio-project-tests\src\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
