@@ -9,7 +9,6 @@
 
 <!--ts-->
    * [Sobre](#sobre)
-   * [Detalhes](#detalhes)
    * [Créditos](#créditos)
    * [Autora](#autora)
 <!--te-->
@@ -18,29 +17,6 @@
 ## Sobre  
 
 Projeto para praticar teste unitários
-
-## Detalhes
-
-Para poder rodar o projeto você deve seguir os seguites passos no seu CLI:
-
-````bash
-git clone
-````
-
-Ir para pasta do projeto
-````bash
-cd
-````
-
-Para ver os testes:
-````bash
-dotnet test
-````
-
-Para ver o console app:
-````bash
-dotnet run
-````
 
 ## Créditos
 
